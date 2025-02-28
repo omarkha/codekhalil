@@ -99,8 +99,8 @@
          </p>
          <div class="btns"><a class="button" target="_blank" href="https://bookmuncha.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/bookmuncha">Github</a></div>
       </div>
-      <a href="" class="githubbtn" style="width: 100%;">My Github</a>
-      <a href="" class="resumebtn" style="width: 100%;">My Resume</a>
+      <a href="https://www.github.com/omarkha" target="_blank" class="githubbtn" style="width: 100%;">My Github</a>
+      <a href="https://drive.google.com/file/d/1d8tZ4XDOX0UDhFiUVeABBBL_PIc0zT4d/view?usp=drive_link" target="_blank" class="resumebtn" style="width: 100%;">My Resume</a>
    </div>
    </div>
    
