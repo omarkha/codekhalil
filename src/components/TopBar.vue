@@ -13,4 +13,10 @@
     font-size: 0.82vw;
     color:rgb(240, 170, 78);
 }
+@media (max-width: 768px) {
+    .topbar{
+   font-size: 1.11vw;
+    }
+ 
+}
 </style>

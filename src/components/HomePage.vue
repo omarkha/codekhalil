@@ -344,4 +344,77 @@ img {
    font-size: 1vw;
    color:#0b0b0b;
 }
+
+@media (max-width: 768px) {
+   
+.hero {
+   display: flex;
+   flex-direction: column;
+}
+img {
+   width: 62vw;
+   height: auto;
+   border-radius: 0.5vw;
+   margin-bottom: 0.24vw;
+}
+
+.profile h1 {
+   font-size: 2.6vw
+}
+
+.bio p {
+   text-align: left;
+   font-size: 2.6vw;
+   font-family: serif;
+   color:hsl(34, 50%, 75%);
+   line-height: 2.6vw;
+}
+
+.bio h3 {
+   border-bottom: 0.1vw solid rgb(48, 35, 18);
+   padding-bottom: 0.3vw;
+   margin-bottom: 0.47vw;
+   text-align: left;
+}
+h3, h2, h1 {
+   font-size: 2.6vw;
+}
+
+.row {
+   flex-direction: column-reverse;
+}
+.projects {
+   width: 100%
+}
+.pitch {
+   width: 100%;
+   font-size: 2.24vw;
+   padding: 3.44vw;
+   border-radius: 1.47vw;
+}
+ul {
+   font-size: 2.24vw;
+   line-height: 2.6vw;
+}
+.proj {
+   font-size: 1.86vw;
+   padding: 2.24vw;
+}
+
+.cta {
+   margin: 3.44vw auto;
+}
+.cta p {
+   margin: 0 auto;
+   width: 100%;
+   font-size: 2.24vw;
+   color:#0b0b0b;
+}
+.resumebtn {
+   font-size: 3.44vw;
+}
+.githubbtn {
+   font-size: 3.44vw;
+}
+}
 </style>
