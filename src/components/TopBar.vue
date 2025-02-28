@@ -10,6 +10,7 @@
     align-items: center;
     justify-content: center;
     height: 6.5vh;
+    font-size: 0.82vw;
     color:rgb(240, 170, 78);
 }
 </style>

@@ -7,7 +7,7 @@
       
       <div class="profile">
          <img src="../assets/profilepic.png" />
-         <h1> Omar S. Khalil - From New York</h1>
+         <h1> Omar Khalil - New York</h1>
       </div>
       
       <aside>
@@ -36,34 +36,7 @@
 
    
       <div class="row">
-   <div class="projects">
-      <div class="proj">
-         <h3>⭐ Income Strikers // Full-Stack Web App</h3>
-         <h4>An old school business planning tool.</h4>
-         <p>Made with MongoDB, Express.js, React, Node.js, Redux, Firebase, PayPal API and more. Income Strikers is an innovative business planning platform that helps aspiring entrepreneurs start a 6-figure online business with minimal investment. With a structured methodology, this tool simplifies business ideation, planning, and execution.
-
-         </p>
-         <div class="btns"><a class="button" target="_blank" href="https://incomestrikers.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/nonfictionincome">Github</a></div>
-      </div>
-      <div class="proj">
-         <h3>⭐ The Art Bridge // Full-Stack Web App </h3>
-         <h4>Connecting The World Through Art.</h4>
-         <p>Made with MongoDB, Express.js, React, Node.js, Redux, Stripe API and more. TheArtBridgeToBaghdad is designed for an Iraqi-American art gallery that helps build bridges between Iraq and the Western world.
-
-         </p>
-         <div class="btns"><a class="button" target="_blank" href="https://artbridgetobaghdad.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/artbridgetobaghdad">Github</a></div>
-      </div>
-      <div class="proj">
-         <h3>⭐ BookMuncha // Simple Ai-Powered App </h3>
-         <h4>Ask questions and let your books answer.</h4>
-         <p>Made with VueJS, Python, FastAPI. BookMuncha is a simple app I made a while ago that lets you retrieve answers from your books.
-
-         </p>
-         <div class="btns"><a class="button" target="_blank" href="https://bookmuncha.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/bookmuncha">Github</a></div>
-      </div>
-      <a href="" class="githubbtn" style="width: 100%;">My Github</a>
-      <a href="" class="resumebtn" style="width: 100%;">My Resume</a>
-   </div>
+   
    <div class="pitch">
       <h1 style="text-align: center;">Why Should You Hire Me?</h1>
       <h4 style="margin-bottom: 1.76vw; font-weight: 400;">You should hire me because I bring a rare combination of technical expertise, business acumen, and a relentless drive to build and ship impactful products.</h4>
@@ -99,8 +72,36 @@
           I’m ready to contribute and make an impact from day one. Aside from my passion for tech I really enjoy collaborating with other people who share the same interests as me ❤️.</p>
       <h3 style="margin-top: 1.76vw">Send me an Email to omareldagestany@outlook.com, today, and lets discuss the details of the job!</h3>
    </div>
+
    </div>
-   
+   <div class="projects">
+      <div class="proj">
+         <h3>⭐ Income Strikers // Full-Stack Web App</h3>
+         <h4>An old school business planning tool.</h4>
+         <p>Made with MongoDB, Express.js, React, Node.js, Redux, Firebase, PayPal API and more. Income Strikers is an innovative business planning platform that helps aspiring entrepreneurs start a 6-figure online business with minimal investment. With a structured methodology, this tool simplifies business ideation, planning, and execution.
+
+         </p>
+         <div class="btns"><a class="button" target="_blank" href="https://incomestrikers.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/nonfictionincome">Github</a></div>
+      </div>
+      <div class="proj">
+         <h3>⭐ The Art Bridge // Full-Stack Web App </h3>
+         <h4>Connecting The World Through Art.</h4>
+         <p>Made with MongoDB, Express.js, React, Node.js, Redux, Stripe API and more. TheArtBridgeToBaghdad is designed for an Iraqi-American art gallery that helps build bridges between Iraq and the Western world.
+
+         </p>
+         <div class="btns"><a class="button" target="_blank" href="https://artbridgetobaghdad.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/artbridgetobaghdad">Github</a></div>
+      </div>
+      <div class="proj">
+         <h3>⭐ BookMuncha // Simple Ai-Powered App </h3>
+         <h4>Ask questions and let your books answer.</h4>
+         <p>Made with VueJS, Python, FastAPI. BookMuncha is a simple app I made a while ago that lets you retrieve answers from your books.
+
+         </p>
+         <div class="btns"><a class="button" target="_blank" href="https://bookmuncha.onrender.com/">Demo</a> <a class="button" target="_blank" href="https://github.com/omarkha/bookmuncha">Github</a></div>
+      </div>
+      <a href="" class="githubbtn" style="width: 100%;">My Github</a>
+      <a href="" class="resumebtn" style="width: 100%;">My Resume</a>
+   </div>
    </div>
    
  </div>
@@ -114,6 +115,10 @@
    background-color: #555555;
    padding-bottom: 2.6vw;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3, h2, h1 {
+   font-size: 1.11vw;
 }
 .hero {
    display: flex;
